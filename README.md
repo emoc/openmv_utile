@@ -1,0 +1,1 @@
+Différentes configurations pour utiliser la caméra programmable openMV
